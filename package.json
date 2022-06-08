@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this file is for git testing.\r show me the money",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahnjinhwan98/git-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahnjinhwan98/git-test/issues"
+  },
+  "homepage": "https://github.com/Ahnjinhwan98/git-test#readme"
+}
